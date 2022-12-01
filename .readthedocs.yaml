@@ -1,8 +1,8 @@
 # Read the Docs configuration file
 # See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
-# Required by RTD - need to find a way to update this with pyproject.toml!
-version: 2022.0.0
+# RTD yaml version to use in parsing this file
+version: 2
 
 # Set the version of Python and other tools you might need
 build:
