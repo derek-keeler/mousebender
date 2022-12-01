@@ -2,7 +2,7 @@
 # See https://docs.readthedocs.io/en/stable/config-file/v2.html for details
 
 # Required by RTD - need to find a way to update this with pyproject.toml!
-version: "2022.0.0"
+version: 2022.0.0
 
 # Set the version of Python and other tools you might need
 build:
